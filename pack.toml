@@ -1,0 +1,13 @@
+name = "CreationRemastered"
+author = "Mirraaa"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "094947090b03bb87282f508c916978e5b9a8107a64b8fe0d4886a8d084bf2cda"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "1.20.1"
