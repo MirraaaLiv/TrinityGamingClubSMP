@@ -1,0 +1,13 @@
+name = "TrinityGamingClubSMP"
+author = "Mirraaa"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b6be5ab743f05b0080f6c9fc452d52325fc1e9cbe8f7f7160a9770a57d5f1d8f"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.235"

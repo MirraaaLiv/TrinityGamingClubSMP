@@ -1,0 +1,1705 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/MouseTweaks.cfg"
+hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
+
+[[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "edfe78d985fe67dce28104f3d87673e94c89134144451c291ecedcd2e2c3b480"
+
+[[files]]
+file = "config/NoChatReports/NCR-Common.json"
+hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
+
+[[files]]
+file = "config/NoChatReports/NCR-Encryption.json"
+hash = "0f61ac30bfc78653a30d715f793e30a6a43d6715106706487efd0aea5d43a84c"
+
+[[files]]
+file = "config/NoChatReports/NCR-ServerPreferences.json"
+hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
+
+[[files]]
+file = "config/NoChatReports/README.md"
+hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
+
+[[files]]
+file = "config/ae2-client.toml"
+hash = "c003fb3ac64c789cea15fd44a8f19d1f4f0c925758d376406472294f16a5b52d"
+
+[[files]]
+file = "config/ae2-common.toml"
+hash = "d5bb325da6d3dbaf0015cf02fbd2d708c22fe761232d2b9bb2112e1f187458d2"
+
+[[files]]
+file = "config/ae2wtlib-client.toml"
+hash = "66eb72801ef7bf95faa4c21af620621c8127b4276f4e5d3901926e615abd2ffd"
+
+[[files]]
+file = "config/ae2wtlib.toml"
+hash = "8405fa1f1820cf98d772dad0a86e67a8d57d40c51a496af5356bed91899d6e9b"
+
+[[files]]
+file = "config/aeroworks-client.toml"
+hash = "1370b00f69f87d8e2f90e844b558a2b480a8d3452add0f6a7a1651464d7e7e4b"
+
+[[files]]
+file = "config/aeroworks-common.toml"
+hash = "4de8d60b654f0525a48b7e5745523756da957eea176351ab179ea9d55d76d01d"
+
+[[files]]
+file = "config/appleskin-client.toml"
+hash = "7127a276c7305371397053cd8d0833e6825c828850626e4067b9fed1430ed217"
+
+[[files]]
+file = "config/ars_creo-common.toml"
+hash = "873292e97e63271db486fae155def041c722c1eed96c9c5cba718763040f33f7"
+
+[[files]]
+file = "config/ars_nouveau-client.toml"
+hash = "0d5eb150dad44e0ce07a2930086a3e164796c10f756090212230f810bec6c798"
+
+[[files]]
+file = "config/ars_nouveau-common.toml"
+hash = "027bdab2329e2e71cc2546871f3eca724cd97a0667a623c9de7fc7c4e9dfd9b4"
+
+[[files]]
+file = "config/ars_nouveau-startup.toml"
+hash = "0d44fbcf1c1b361b833e1e0da847d5c5d1ca38f927a55b057e14e13e30ae85fb"
+
+[[files]]
+file = "config/arsdelight-common.toml"
+hash = "d559b92f3ed39e3e582dcee3ca54748ba94c6cca8c285385d5a3c2108d00de55"
+
+[[files]]
+file = "config/arseng-common.toml"
+hash = "ad4af9232ccbc8f250ef6935484d18ba885974347d2457b03e74985f8008057a"
+
+[[files]]
+file = "config/artifacts/client.toml"
+hash = "3921700655db2af439702410ce0f4771955fa426b8b184ccb569721063da2a70"
+
+[[files]]
+file = "config/artifacts/general.toml"
+hash = "b73793e634d1a441c12ed1c3d02ec074b2f19a24766512f78ff0b9d83cf9768b"
+
+[[files]]
+file = "config/artifacts/items.toml"
+hash = "4ad2b5325a9ddd32792b0cca532ab88914ae0c85aef8f5f56db8f5e75609bc28"
+
+[[files]]
+file = "config/authme.jsonc"
+hash = "7be21b7617f2469822bee8c1d8060b89df32e05351c4599dedcb8de8d223d5ba"
+
+[[files]]
+file = "config/betterdeserttemples-neoforge-1_21.toml"
+hash = "c7355a13f2f7c4eeb3332ab67a2315e0662c7e5b434dc33d4624fccb9e815240"
+
+[[files]]
+file = "config/betterdeserttemples/README.txt"
+hash = "a8248503b691a780ba45cf033a8d74f1f878d27f119f1d8b4b80b2b8745f62db"
+
+[[files]]
+file = "config/betterdeserttemples/neoforge-1_21/README.txt"
+hash = "80ba474fdd1912739a1dc3326de6539ccfceb9d5c97f540131b567e295a7b112"
+
+[[files]]
+file = "config/betterdeserttemples/neoforge-1_21/armorstands.json"
+hash = "83dde0d6ba950c9e929588704c256e68bdbf4105af5a8924fde2142cfbc47390"
+
+[[files]]
+file = "config/betterdeserttemples/neoforge-1_21/itemframes.json"
+hash = "02106225ffc8c93b830fbfb7c7b5928cca50c1d9d890dfcd30347716d81c9fd1"
+
+[[files]]
+file = "config/betterdungeons-neoforge-1_21.toml"
+hash = "b03069c030f940550b4436d2f7c3dab582efa2fcc32b221ac30dbcb0617eab7f"
+
+[[files]]
+file = "config/betterfortresses-neoforge-1_21.toml"
+hash = "0bef433c8253f63704694528c33dc854f2b28da084d420a61c43fd62d6e5301b"
+
+[[files]]
+file = "config/betterfortresses/README.txt"
+hash = "5643f5af88b445a96f2c6ea167b97cc640059eda5c849ed3c7b8d5023ab51a86"
+
+[[files]]
+file = "config/betterfortresses/neoforge-1_21/README.txt"
+hash = "1175dbf9cd2e7c91b1c852a51e3c0203c68484917e877465b283e2370ad62864"
+
+[[files]]
+file = "config/betterfortresses/neoforge-1_21/itemframes.json"
+hash = "56f369af706ca385e1c1d9a8e27957405f15ff1c9625a4fc8e3a176113724b37"
+
+[[files]]
+file = "config/betterjungletemples-neoforge-1_21.toml"
+hash = "77ef014bd34c9f66bf40b3e6ae7a67bf7ec2a618b76eafff9f0921577d3ab1b9"
+
+[[files]]
+file = "config/bettermineshafts-neoforge-1_21.toml"
+hash = "37ee9275b9680c2d07d395cf41769c456c9b93adbf85ddf6514ee601977fa099"
+
+[[files]]
+file = "config/betteroceanmonuments-neoforge-1_21.toml"
+hash = "6c09d2a75810e76c719b355c3480d1dc14b135f944f4a85d2118a395efc916c5"
+
+[[files]]
+file = "config/betterstrongholds-neoforge-1_21.toml"
+hash = "3f2ae4edfb2c45137f14dc6a1a4f02958735b9831c0762d19d9e57fe4ff72346"
+
+[[files]]
+file = "config/betterstrongholds/README.txt"
+hash = "cd97289ac49b09b032d9c69a2f893b8fa9f73849b4adb9f63f8486a83bf2fd5a"
+
+[[files]]
+file = "config/betterstrongholds/neoforge-1_21/README.txt"
+hash = "5aad271e60a03218eb5207dd78df8d1d36c676f212bf823701e33646010d2f19"
+
+[[files]]
+file = "config/betterstrongholds/neoforge-1_21/armorstands.json"
+hash = "555c822d240047f1a6651aeb424e35eeb32b79549b0a767cf7c7b873120c725e"
+
+[[files]]
+file = "config/betterstrongholds/neoforge-1_21/itemframes.json"
+hash = "4a71b76c899782706f0f4658b225cc99228a20fbd51190e1b5dbc063865aeff3"
+
+[[files]]
+file = "config/betterstrongholds/neoforge-1_21/ores.json"
+hash = "319989e2cf3fc580ae02ac8c52992a34630bf43b953b67e1d1418a0f9317b718"
+
+[[files]]
+file = "config/betterstrongholds/neoforge-1_21/rareblocks.json"
+hash = "e79b0a8921cd1b522050b664a101b65b1969e0740fe0a8d292951a20f24fe3d0"
+
+[[files]]
+file = "config/betterwitchhuts-neoforge-1_21.toml"
+hash = "0fa4f192f54dc1fc4f7ac7ab8be7cba88e324fe21571777cb8a6d404f6ce49a9"
+
+[[files]]
+file = "config/citresewn.json"
+hash = "1ea03400477ac2075d61ae58cfc573bc78ce954507d090ab69547de279918656"
+
+[[files]]
+file = "config/connector.json"
+hash = "67bee06b2b321ed25e0d4e9b5bac7ab76c8ae76442de6caf11f463ce2ae1ac5e"
+
+[[files]]
+file = "config/controlify.json"
+hash = "555bcb4dbdedd14978ba2cf48f8495e377fbf7e46a60be0d81b4c27703bb07dc"
+
+[[files]]
+file = "config/copycats-client.toml"
+hash = "381f51308cca7e8aaa1aebb9253a6be686f74ebc70d4da39dd7750d2ca2e9598"
+
+[[files]]
+file = "config/copycats-common.toml"
+hash = "4554d0df9a25e4f58c07df938806bb435fa2556263b60537bcd8f3f3cd28f1c3"
+
+[[files]]
+file = "config/craftingtweaks-common.toml"
+hash = "88a669f3aa6e8ffa05c4e1dbefc1f372ca26cea0fd493c16f33d94e37c513f8c"
+
+[[files]]
+file = "config/create-client.toml"
+hash = "cce3eab1a290cc1f0eada00031f0577f661f883aee3438cf1139283c65d1f319"
+
+[[files]]
+file = "config/create-common.toml"
+hash = "2e77b1d93b40ce3f381ad7eb2a9e6d7148de917518be5c2616939a4369c4b140"
+
+[[files]]
+file = "config/create_bitterballen.toml"
+hash = "fba56f4e871213c75acca9bf03dddd44bd17343dfad9b21bafa12cc69bbe8500"
+
+[[files]]
+file = "config/create_central_kitchen-client.toml"
+hash = "0a1393aff89a803f574fcdb72a6c39c7fcdc95fae4e9ccf3d53cbd155c405c9d"
+
+[[files]]
+file = "config/create_central_kitchen-common.toml"
+hash = "e211c5226a565d1affc5d6c2f752cc5856369a6118ca2fef3a2b61f3fa36a5a8"
+
+[[files]]
+file = "config/create_connected-common.toml"
+hash = "0c352f9d7c4bcf09d676222a1cd1cba8689b0dd1ca0847ff90427bae620a5ec6"
+
+[[files]]
+file = "config/create_dragons_plus-client.toml"
+hash = "cf30f0e99ef65fe80e80481bf9aaafefdbbf97adb84c0c3611ac2d9ca3cf8a28"
+
+[[files]]
+file = "config/create_dragons_plus-common.toml"
+hash = "134e5d1beb5e8cc7f22e20178c2a995ab4e1e83ddeca8048739ed000fc3a964e"
+
+[[files]]
+file = "config/create_enchantment_industry-client.toml"
+hash = "f1c6a25f81ec0f112e431b9064088e641c37b33a1aa16eed2bc4d03884c2b39c"
+
+[[files]]
+file = "config/create_enchantment_industry-common.toml"
+hash = "ba7ae48de21489764763fbcfa70a0751114cec08af0d0dfebee03af1f5892ca1"
+
+[[files]]
+file = "config/create_new_age-client.toml"
+hash = "106458d22945b3ff5a8898a778e4a03ec6d30400321a39f5795b4e7d1385ea42"
+
+[[files]]
+file = "config/createcobblestone-common.toml"
+hash = "de91c57beb18e0bf23cbf2fdc249ef3c1f587ca5b98fce73d36c08904af979ac"
+
+[[files]]
+file = "config/createtweakedcontrollers-client.toml"
+hash = "29a574cda8c1958ee8a4bcc370a6317acf5406ff3e07ed4b821ecc4f5134cc9f"
+
+[[files]]
+file = "config/crittersandcompanions-common.json5"
+hash = "6a4eef7a79d3cf381d89eb4d6bd47425334addb4fd4f590bf1cec14af8946d5b"
+
+[[files]]
+file = "config/curios-client.toml"
+hash = "8af475d222d452c40b548db89c8956f3e4d1e2aaf729464e3065f029936b3e0d"
+
+[[files]]
+file = "config/curios-common.toml"
+hash = "9f00a6b9904cf63a36c0c72f8346642962d538aaa78b59943b9de60dda82e6d0"
+
+[[files]]
+file = "config/do_a_barrel_roll-client.json"
+hash = "ee32faf303d3beaff76ee54091bc95788048046b6e948ea7795d1eb34f365607"
+
+[[files]]
+file = "config/do_a_barrel_roll-server.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/enchdesc.json"
+hash = "7116b95a9b6797af8db84e410a2ca2fdf6f813461e37cd04bff5af933f31567b"
+
+[[files]]
+file = "config/entity_model_features.json"
+hash = "c633e3370aa256a71ab45aec68683a2ec4b29b6c5c2dfd430f9788a854ccf920"
+
+[[files]]
+file = "config/entity_texture_features.json"
+hash = "d8d72a9ac49bbe45921f1ace5a22c30b65802c5e70829343cf7acfd25f79b8dc"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "e92e6772c4b6ec28b9c179c80831d56d11fc65064591424a120133d397b2ab49"
+
+[[files]]
+file = "config/etf_warnings.json"
+hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
+
+[[files]]
+file = "config/extendedae-common.toml"
+hash = "d9bdb8e3cc95095a3bb22d0257c2b374ebf8a0b92bbeacfd1bbb62d40b7ef087"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "067ca78e60bbc7e58d8cc51ea10cab6647a40cf30609268c4d6b259b765b6eac"
+
+[[files]]
+file = "config/farmersdelight-client.toml"
+hash = "a8cdc0376674d522d92d977cac5800d00c6f70ea62ea83dea59595fb232b8e3e"
+
+[[files]]
+file = "config/farmersdelight-common.toml"
+hash = "0cc639f1ce8ab5e63f754ab41be3ab09398fd149de6d0b5edc476034e3ed8b06"
+
+[[files]]
+file = "config/ferritecore-mixin.toml"
+hash = "1356f9d52b2dcb2afa5a593e53c286d9c1c3778a6f8b1cf761953b185b7dce78"
+
+[[files]]
+file = "config/figura.json"
+hash = "45d1b9d9bf59fbd6a384fe8a7d1db75f7364276e17819f738c670202be5d4fd4"
+
+[[files]]
+file = "config/flywheel-client.toml"
+hash = "9b9525f6baadc8312819ae21ad8688b20fb887e0e2bec4bceece4cbb296196b8"
+
+[[files]]
+file = "config/fml.toml"
+hash = "cc59fb1039726fda3ab1eb69b06d9b9aebb7496604ea579cfb735bc5377e7825"
+
+[[files]]
+file = "config/ftbchunks-client.snbt"
+hash = "dedece9dde376539875056acbbf1274e1fadc847a07b7c388884e5091b31572b"
+
+[[files]]
+file = "config/ftblibrary-client.snbt"
+hash = "36cdb5928c8014d9daa5bcaedfd7849fd573ef6280d168fa5daefb4785b1f2df"
+
+[[files]]
+file = "config/ftbquests-client.snbt"
+hash = "6359364663ea3c418cacb79500bb529d4988ce1089d6e73ed5b2eef526f2e6d1"
+
+[[files]]
+file = "config/ftbultimine-client.snbt"
+hash = "67dadd3f0812bc01a0b0ca6fb204961512ce1332e97fe42dba2cb57813a496ef"
+
+[[files]]
+file = "config/guideme.toml"
+hash = "e4f58ced20ccf200592141f4afcad54a0d33faa6b672a90e58781c1a8183a036"
+
+[[files]]
+file = "config/iceandfire/iaf-client.json"
+hash = "cb326e55a4a76c4741c031ce61b48f96b56dbc327792d457f4eb7894d6a0fad7"
+
+[[files]]
+file = "config/iceandfire/iaf-common.json"
+hash = "a520e5e7909c9e50d1857874f853e6fafff8ac106fabff239868d5c57a57b546"
+
+[[files]]
+file = "config/iris-excluded.json"
+hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
+
+[[files]]
+file = "config/iris.properties"
+hash = "015b8780b3ccceec8332fcc30d2a11abdee97c9c1b869bbf16489cf75307f889"
+
+[[files]]
+file = "config/jade/hide-blocks.json"
+hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
+
+[[files]]
+file = "config/jade/hide-entities.json"
+hash = "3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "f9f68a1557cdfab8394d2f4b54a2756d96451dcdddea4f5e04cb912b516ffa05"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "43238308737bb0e1640fc0b2c48b3aadec7467c638817d21d31b4d0bf15cfc78"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "4cb6e6c257a630eecc59aafcd5e41dbfa241dd16ac1251e13c8b89bc4afd7ba0"
+
+[[files]]
+file = "config/jeresources-common.toml"
+hash = "b8e340097e9b479a5d66593f01c1c84a8a8fdc1ed960eccb11676ee7612537e2"
+
+[[files]]
+file = "config/jupiter.json"
+hash = "ac6415cb504a1cd8d129435e67e718b0f139613f378127f0f8f21ee61ca4ffe7"
+
+[[files]]
+file = "config/l2configs/l2core-client.toml"
+hash = "1a16bebe5a1fb9f6e3a81fd00bbaf20cfe28b15de54be97caddf21b638c26f84"
+
+[[files]]
+file = "config/lambdynlights.toml"
+hash = "fdd6958ff17541c8d1c891bd1602088bb6888f41229e966387a07311f32ec6d9"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
+
+[[files]]
+file = "config/lootr-client.toml"
+hash = "4da5bc00c2cc7db774e16f6905929303bfca802367d49133ba9742a6330238ad"
+
+[[files]]
+file = "config/lootr-common.toml"
+hash = "cb848383f0abff383a96a6cbf59bb91135cce38cb71711f3ffe5baca20fabf9a"
+
+[[files]]
+file = "config/midnightlib.json"
+hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
+
+[[files]]
+file = "config/naturescompass-client.toml"
+hash = "a5d664ed8aeecd77bd09611cba93d5f8e3194da8140666d3e97a0c4973dd0981"
+
+[[files]]
+file = "config/naturescompass-common.toml"
+hash = "e769b3fba5d717bc42a38043aee9b08070af87e22700d07a5f6e69c3efca4a31"
+
+[[files]]
+file = "config/neoforge-client.toml"
+hash = "d58d93e2c429410d0abf25507d1679f732e1023b03bb52414348efcf5cf3ddb0"
+
+[[files]]
+file = "config/neoforge-common.toml"
+hash = "fe878a2717a145cd890621eac5b3be1e1fd656f7ff9abc6e8d53f670d37474c4"
+
+[[files]]
+file = "config/picturesign.json"
+hash = "14069dae28830b30277fa8f71f29b0d4e018f1412f5447db464a4798632c3aa5"
+
+[[files]]
+file = "config/ponder-client.toml"
+hash = "55affffe67e84dfe11e590769e235aee999b77f9484a3adf7ee8247a9f3d35ba"
+
+[[files]]
+file = "config/resourceful-config-web.json"
+hash = "07d704f121d107c9f5fd7e7a5125ca8c2001b4f5fbf284d41bff92958e276329"
+
+[[files]]
+file = "config/sable-client.toml"
+hash = "5f816a5d7d32cc56ff3f26e3adbb25c6bfea6d81aba088cca9e00d42d73753e4"
+
+[[files]]
+file = "config/sable-common.toml"
+hash = "43d5cdfc1997a8aaabfc301e746b773319999d348661a1a7a04b37a70fda93c1"
+
+[[files]]
+file = "config/simulated-client.toml"
+hash = "aaeeaedb8179a8e2404a468c0b62fee76dd5becb6c87d870f206733e20009991"
+
+[[files]]
+file = "config/sliceanddice-client.toml"
+hash = "3a5b0f383352483c0afb34cad7800ab7757b70d0028e6edbdb4c67b1762b829d"
+
+[[files]]
+file = "config/sliceanddice-common.toml"
+hash = "8c17330d9f9804cd1540b0f442c7f7b7d1dbd3ccb3e22f6c4af222753ffd49ac"
+
+[[files]]
+file = "config/sodium-fingerprint.json"
+hash = "c5141bf16821e9e5206ad8a45776b8258e8859b5dd281f5a9c7e3bc51f579616"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "44478bef0973f1aa587c0493568a5cbc5426233b611f14bd2be489b5b862fa7f"
+
+[[files]]
+file = "config/sophisticatedbackpacks-common.toml"
+hash = "390cb983090cdc5ba9013c0551fcde8ecf579040f970e33de5ecfc500841cb7f"
+
+[[files]]
+file = "config/sophisticatedcore-client.toml"
+hash = "12f65a872b73c931b0a192d7e95c7d89f7ef7f1fd33f3ee7ff6bbda12fb8845f"
+
+[[files]]
+file = "config/sophisticatedcore-common.toml"
+hash = "6928810eacfc20c8568759fc8c142df5f643e790f5c97c082719d65656274ff8"
+
+[[files]]
+file = "config/sophisticatedstorage-client.toml"
+hash = "45923fce3aebf26b0932687f1f06048fca5f716a865e98edf6066f5f2e99ec30"
+
+[[files]]
+file = "config/sophisticatedstorage-common.toml"
+hash = "0c721ecf8a9a6fba8402b7ce73bf8580acdd078e9ac9c3b37c42245ca6d8c4b0"
+
+[[files]]
+file = "config/transition.json"
+hash = "60420a41571a4658b91babfa2b47d6fefb7c1766eeea969f51ff98ab34c2431c"
+
+[[files]]
+file = "config/trender.json"
+hash = "0a282f3623f7f9443a1d10b5768865f69e58b74e000dcfb4f40399626b7a6124"
+
+[[files]]
+file = "config/voicechat/category-volumes.properties"
+hash = "94c1c4f70e5b995fbd71e86d4fa646030437fecae0685875b560a55fbd0d0e56"
+
+[[files]]
+file = "config/voicechat/player-volumes.properties"
+hash = "0332261861a5ace96f503e85b0d48a8df74ea6c2f3545cd229543a6afb55ad96"
+
+[[files]]
+file = "config/voicechat/translations.properties"
+hash = "693643b1d393cbb3ea7f062afc4474fcd66e4036c4f8d7c056434979cbf512d1"
+
+[[files]]
+file = "config/voicechat/voicechat-client.properties"
+hash = "83ef160f6bb40218a476b2b8cadb5519f0333bd4104467a9657ee8436a7d22ff"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "2601cca56febfc5bb477cb439fb0cb36d72b2fd0c43faae5be306965cca485ae"
+
+[[files]]
+file = "config/watermedia.toml"
+hash = "f87a14a8bb3209384f6baa9341a9edf1c0e8e1914a6e0662c429865af5f18bc4"
+
+[[files]]
+file = "config/watermedia/assets/loading.gif"
+hash = "387f3a9aee7a1df9334ced1c5d05a5cba3915f36c556bcf14235b145f79eb60d"
+
+[[files]]
+file = "config/xaero/lib/client.cfg"
+hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
+
+[[files]]
+file = "config/xaero/lib/common.cfg"
+hash = "98f698d96a6d21d830a455b4ad045b70516fa63c298021742d8499e7f0366cd2"
+
+[[files]]
+file = "config/xaero/lib/profiles/default.cfg"
+hash = "34ae854b17d896d7cb853bdc28c27231a3947e91cb9f0991f372846ee3c2a907"
+
+[[files]]
+file = "config/xaero/lib/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/xaero/minimap/client.cfg"
+hash = "c0915eff5d1a7905cd1038d646eb9086fd1a29e2f637d53535e4da161de17b9f"
+
+[[files]]
+file = "config/xaero/minimap/common.cfg"
+hash = "2b49df024c03a369c62a303c72755e7fedeb4f4653ff53a12fd37bd83ccd4ed0"
+
+[[files]]
+file = "config/xaero/minimap/default_radar_categories_client.json"
+hash = "b8ddf54611a9ab8c53177fc0d062321e9e731192b65b9e50d0fcb38a86a91696"
+
+[[files]]
+file = "config/xaero/minimap/default_radar_categories_server.json"
+hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
+
+[[files]]
+file = "config/xaero/minimap/profiles/default.cfg"
+hash = "53b57c6a7bc117d6c2bc7a1fa8f1e5cbc963946d10f0de22fa55d2cb0929285e"
+
+[[files]]
+file = "config/xaero/minimap/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/xaero/world-map/client.cfg"
+hash = "d0f079a8df083f6f60a0e0c1316a25fc841755a91bdcb2f86c66ead8e7d4d13d"
+
+[[files]]
+file = "config/xaero/world-map/common.cfg"
+hash = "0c229eb0daf85bd09af51f21eeeb99497a3bd50a825d5ab1ca695fb21bf6cf9d"
+
+[[files]]
+file = "config/xaero/world-map/profiles/default.cfg"
+hash = "5422abf9c83fedef6509144293fad20f588d4bb6ce0cf1af78cbcd2bcd0d2ccf"
+
+[[files]]
+file = "config/xaero/world-map/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/xaerohud.txt"
+hash = "58c9270f258d0b224bb7d0f7c927544d5fbe5f1b8027c820e1e14ecbf48fb88c"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/yacl.json5"
+hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
+
+[[files]]
+file = "crash-reports/crash-2026-07-17_04.18.01-fml.txt"
+hash = "9399084f3a214a3b0660b81d6a52d29371fd9e5762b448c212e4411c29ef2436"
+
+[[files]]
+file = "crash-reports/crash-2026-07-17_04.19.59-client.txt"
+hash = "282ad7999cc47cf8d84d229a475b1a73290b92efb42910e3f20108a06ba2b7b7"
+
+[[files]]
+file = "crash-reports/crash-2026-07-17_04.19.59-fml.txt"
+hash = "9ceacd9a45444b13e0997ae0ee5bfdc55e1622365f54947b03af06d0929b033b"
+
+[[files]]
+file = "crash-reports/crash-2026-07-17_04.20.57-fml.txt"
+hash = "d66e4597448066d41caf0a6f107dc3996e86d7f505797f4aff369348edb1aeae"
+
+[[files]]
+file = "crash-reports/crash-2026-07-17_04.20.58-client.txt"
+hash = "eaa2592a34f3a17c0f0e2092e1bdc5e0f74a65207d47876c20d894323603b5c0"
+
+[[files]]
+file = "crash-reports/crash-2026-07-17_04.31.04-client.txt"
+hash = "7874ad2fd8dfc0326e96d2ff633eff61c9935e8cd77873356bad2e09086027ad"
+
+[[files]]
+file = "crash-reports/crash-2026-07-17_04.31.04-fml.txt"
+hash = "3fb731deccce6ec61c0c7411cb044be0ee82f25619405831aadcfc338c4ee96c"
+
+[[files]]
+file = "crash-reports/crash-2026-07-17_04.38.20-fml.txt"
+hash = "2b92703b2550890823dc26185a9aedbd30e0c3ab45883410be495de12890b0e1"
+
+[[files]]
+file = "crash-reports/crash-2026-07-17_04.38.21-client.txt"
+hash = "8ce8a627f541ecf438a2386608986bf5a1b3cd44335d76073808863b2fafe4a0"
+
+[[files]]
+file = "data/fabricDefaultResourcePacks.dat"
+hash = "d0661ee82ee1a28822e8945f7d45abb902f39bb91ba2d22c3df224ea0126cb07"
+
+[[files]]
+file = "downloads/log.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "fabricloader.log"
+hash = "e3c72c9e615459725a11ea50c3fb633cfe75a7adb9cf1c195d661199ef6b1ce3"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/animal.json"
+hash = "b86b46120851c03e0687a98644854d3e08a62134050eaa6135bb88aad3f6b20e"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/animated.json"
+hash = "b254f5dd3f26bdfdf112886bb3e096b4c8f59338e029172ec13a408e73b1afb3"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/face_happy.json"
+hash = "fadca031a64a623c25373d32d72bfc8a300f6298ba95b9ebc29098d3e233098e"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/face_misc.json"
+hash = "0d887fe2699d46f8a3eebe1e852f136ea6e49fde3616899d354d67682c9c5081"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/face_sad.json"
+hash = "301cb406b5db59f2b4dbe85d8267a5e53a3d31859796f05e31de6d63e63ac3fc"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/face_stress.json"
+hash = "4244b8e8835695fbee377ff491a06ed91c54e1982529c3541edd6dcf552963c1"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/festive.json"
+hash = "e2cec9de6baa5701aba3dc72ef7a34f040bc7e5c0c30b818b121c41881841dfb"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/flag_a-d.json"
+hash = "327a02631f6a105ff8b929fb30e036ebf188e3e0ca1fc8a13a13833a3ca3c563"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/flag_e-k.json"
+hash = "139e9eafd7b830a8a69b3824188c2372bf9daa47cfa726a9dfa5ede687f76363"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/flag_l-q.json"
+hash = "3eb3d5ed7097f2a74abe71093f9bc3f4f19decc30ae4e444f015ab6413eabf2c"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/flag_r-z.json"
+hash = "e7b302dae6aee1bbb40d9b550fa9e898fa3fc5ae6541c997738d47757a16c7ea"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/food.json"
+hash = "e22f85b966c4babe682cdbb42d53dbaf393865e786425ab00af20c32be7435d4"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/gesture.json"
+hash = "ca95961a2f356f296ab8bfde0824c0a214b362b2063eba599d2768e8b4bb8c5e"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/heart.json"
+hash = "9f0e7e5cb41d85a47e81474c398016bd34a9fe5b3af1af2600f42c821b10b029"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/letters.json"
+hash = "2d2e0a587c2799234630693476c6b507de532f6871edd7aafd09d737c5b7f89c"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/logo.json"
+hash = "809349e9b8fcf60709f070ad43e4e62da23ab6b269664ef75c5d00ebba4ba120"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/meme.json"
+hash = "7ab42ab666cb590017f0426b6de2602b9164be2796e291c8fce8bffa954252a3"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/minecraft_animated.json"
+hash = "8ee66231df276528785b3b90d0c023643e0557d6ed8d6e44a59366233313aed9"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/minecraft_blocks.json"
+hash = "ff5be68d4b4e62f07857aae2c682abb1f0dd3f8fef893167826876ee73be3033"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/minecraft_items.json"
+hash = "6ea10f853cd3d53a1d82cf555a69286446ed316f93ae6c5ee59b99dd87d6a32d"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/minecraft_mobs.json"
+hash = "035a3ea2304ed6219479e8fe74843cd449ad1705130e7097dfbec4b1e3ccdaa9"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/misc.json"
+hash = "7aed24de0ef70cc1ca21d6749e483f0c97ea415f0fca084d73e72a4166263ede"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/nature.json"
+hash = "9569007a20038afa3bde877187352c40e9d5de308fb83a22a3781f7ab7376cde"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/object.json"
+hash = "9cfda93db9cc6f2b27b2804b0c7864b325ee231edcef8aa4e5f6e08b4707fb83"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/portrait.json"
+hash = "0df74aded5a8a77c55638ad8cdfeb18efdda663c9e8e450eb1304de397889320"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/pride.json"
+hash = "6943f742a5054d0b97258308da5852f5bd5c2cb56ecb07388064935da8bf6024"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/reference.json"
+hash = "80cbc0399fb1905e60249876b1e84f06f56be36982929b7e39a1978a105bf156"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/reference_bloons.json"
+hash = "bbb80cb680bfc0e1bc58318727ba79a0da7addd5ef32b1b26f96b58b31aa29dd"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/reference_logo.json"
+hash = "7895a7fe8585dd093055e630e196c04f4becff3a5b144f5a67dd930c2fa2167c"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/reference_retro.json"
+hash = "618e29cfce27490851363cf5f964befefb8ad785e106f33b8092ef2f72fe5bb8"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/symbol.json"
+hash = "aad96b36cc170e5ba5bfb96eda785a3fd713730ca9d9d7913b04ca472767f73b"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_animal.json"
+hash = "9f2e71ac5107a782d8ee4a246844320fafdf44488897380c73fc8df9a63122c6"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_animated.json"
+hash = "a8ba3b06e8f9c5484914dc3412f9de0ff11bfb7ac434c22c4730ddaece288acd"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_face_happy.json"
+hash = "377c81e9c309e18f41db8100f1144e0308f006949cb910c0f53ed9fc9b5280d3"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_face_misc.json"
+hash = "70791a600c90b65646fe5760af0c0641d685a62b814ce2607ff8777eb9232424"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_face_sad.json"
+hash = "330a1573a98e8373b2115dfc490b7e64f4655298e7d6c6328099f12744bccde5"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_face_stress.json"
+hash = "70c40082ae35e512eaa244d14dca9383143cc6c914c667180c50715601aba362"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_festive.json"
+hash = "b008ad78be906fd69bd968f22b89c13cfece749cecc27398c78b627c39488139"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_flag_a-d.json"
+hash = "8ef37e59c9e827bbb9306438b5d6e0c7f7750b488adcbccb42e37ff28fbd16e6"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_flag_e-k.json"
+hash = "605108d33a91473d88a12c2d612a95fa438cd5135bfeb0aa4a2e6b38c673c5b5"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_flag_l-q.json"
+hash = "c46f504830fe196652e90ef4d037ffa71cfbf211f312410ecda2bf5d0b88881f"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_flag_r-z.json"
+hash = "d962613f6e2479eba4be164a4b7c91972edb50e9597409a3ba0a478fe8d88c14"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_food.json"
+hash = "60080dd825e399fcbcd1041938cf7284e62da17d4ae317b081982dfd8fe71d77"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_gesture.json"
+hash = "0589b4a67d2a4ff6c8b60877def9d5f8425bdf62b8f6efb165d7581a7200f0bf"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_heart.json"
+hash = "0963ac3aed476ac73b31d142d75d42016c6f36819f353359ca181942011261c2"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_letters.json"
+hash = "18f45fb785b45caf188cee0688d434f868f07ee0fc013bcbc377da56765f9c22"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_logo.json"
+hash = "45ba201ba23434778555fa169293766b7f51d486ac9baf82e527fdf34333b15b"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_meme.json"
+hash = "c6f087838af6cfcf684a6d1bbae7eb18a24803f9ac793ac75502004d16f72ee8"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_minecraft_animated.json"
+hash = "8080362dacf20a47719dd395445a62083ed57afc72cf03a00ac81ec637d2dc9d"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_minecraft_blocks.json"
+hash = "9e6c7eedb24b9d66d2eae8bf70a326606acc279ce0fff2467c110bf2f184c4cd"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_minecraft_items.json"
+hash = "eb3a2ae2d8626555cfc5e036490ab0a7936dfe7366d28384b8cef77c9c348b9e"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_minecraft_mobs.json"
+hash = "c4d8c3a61aed8fc6219ac54e9b570eb18090d7b576491a2709d7136e2483c586"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_misc.json"
+hash = "90672b84415a164cb1e4af03539a5e53ebfd49db700e347f0aa64f578e29fd51"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_nature.json"
+hash = "d68d03e94c698e5bbe4e69e20e8e9beabd247842616627b87a1dd0185026600b"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_object.json"
+hash = "53dd750523b9716fecf9bc3f9cd9bafa49c6079ffbf170a035aa16c2e9d9bc3a"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_portrait.json"
+hash = "9a268c4adaf3cb897613476af1dd88d8c250c165bc1ef6399b10f15ccc7e18d4"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_pride.json"
+hash = "d21719a35214e23edf80dad6d556890ac1b130f77b2ed5db8087d361b77109c2"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_reference.json"
+hash = "149277ccb11f9b6488c08c8ba0acc0f2e9c542d7a30347372566ac3a873f5735"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_reference_bloons.json"
+hash = "4b31e4c1ee670db10a2f2b164c4fdcbfa02754b11e355a7cfe5a067d3166ee90"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_reference_logo.json"
+hash = "eb01db6c533f79d7301a0a936e4855bd52d627ab2e95fa64cf4645f90c279ddf"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_reference_retro.json"
+hash = "625ef7c535f38d2f175b58aa7b7a6924cfd0e2bda04daafb774d74258d756901"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_symbol.json"
+hash = "cc0d4b5fc7f1c440b90e7333bfe584eb84e61d2d235633f08de80e2d9458c627"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/cs_cz.json"
+hash = "a4ec13988da52edd3b9839a3b2dfe1a0a9dd7d7e429b06a1c648b79e23766d53"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/da_dk.json"
+hash = "49cd1f49afd56f29d2b8a46326fb65c9887119813ab56fbc216a5acc7fe3ee74"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/de_de.json"
+hash = "3bb8da827bc3f9c9ea227548ff6ef3921b73e3cef49d581aa50ac1f48f40519e"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/en_ca.json"
+hash = "0268e8a2672911d16401fec9b5a47e6a337fb370e88276dfbc505d4c085def9e"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/en_gb.json"
+hash = "66c0dc8ac2a911d221742d892d8180183eb62749c9c512a9ff9658e4f64db350"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/en_us.json"
+hash = "01cf8a4ad53841175d4aaad9e5d387682c858e44536e3adda48d63b058019884"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/es_es.json"
+hash = "360890d454b877726fd3387035fdec9ac371726aae8e656b8a3e377ea7396a18"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/et_ee.json"
+hash = "722249283ed72abed8482e7fb7c47072b6befe8c6a5dc495c09fdbdd0ae729d2"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/fi_fi.json"
+hash = "7b35b97f4a2fd7828a5ef91ddca8d29b2d440f77cfc6e51596b9dde36a2df4b6"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/fr_ca.json"
+hash = "b289163c44865f05c76467c3f23ed1a601f5e4398f5b5f86c8909a736daf84ea"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/fr_fr.json"
+hash = "ad1d86cea6c46fa50ba8efcc90f5c98c586d6ba24030562664e2299918744248"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/hu_hu.json"
+hash = "0c142dff08b531689530f66c4faee9d3ac22448791028381089776a1bf4d86e2"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/it_it.json"
+hash = "243889313577d0794c3c358a43a1e5cbd9aa39758e3cd3b33abcbc95830eeafc"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/ja_jp.json"
+hash = "43f2bba4c7668c3b8b4adb780600cd10c1921d4325650d94c09720aef6f1bbd7"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/ko_kr.json"
+hash = "09c7d779bb3ff8ec6ae9b9999610d924f68d63402352888135411cbaf72ef6fa"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/lv_lv.json"
+hash = "2572bc8738cfcab7b23b9073f3986bcbf8cad694bc5dafc7a6d9d9e6d72bc088"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/nl_nl.json"
+hash = "c1f7d850f21fe185d95a36d9379e65da691b8fa08b3cea1fc9af05d1a282c5bb"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/pl_pl.json"
+hash = "6254870f9d13aaf874253a98afb8804f6c5a34513747c19dd53a147a66dbb367"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/pt_br.json"
+hash = "23eff2963b2c5e545d57bb4b2ce0ce1c51bc2aa4c3f978dbf13fbff4bf905ad8"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/ro_ro.json"
+hash = "adf6fc6e527ea1aaf3aa83b8273434ba649fcd10e44c9c61a3ed6ba0c2189a1b"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/ru_ru.json"
+hash = "ecc771e8e8bf4fc038c3843c1c262e78fad8c6e12d45490b652e338f180a8a42"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/th_th.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/tl_ph.json"
+hash = "7a54cc13a3efac1afe982d6df54c2a56ea53732daa880635da3e93363a856b49"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/tr_tr.json"
+hash = "1b98ac3c503906e85cbaf009888a884569f6b1359264556169ac7bb976c7894f"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/uk_ua.json"
+hash = "658e27e97f81157210584288b2e1e9200d5af577ac4bf1616e73f19b5248edba"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/vi_vn.json"
+hash = "857234f135d74304b8155cfbf44a1c53ff0920da34ff2fb3d6b397266adb8e5e"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/zh_cn.json"
+hash = "3916951b8b89d4db721b492e7d0f78afa1c2624703f56742223bdf72c9b0932c"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/zh_tw.json"
+hash = "c15dc4d5f10529be54478f76853b2b2700ec31b2a3408fae100e55955296779d"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/palette/palette.png"
+hash = "0865cf66a8e71a7905753cbe077b26d59b3b6339166bfe0a67d34a2c1c69429e"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/animal.png"
+hash = "6bc785059410945c107df1c06ec3f15a0fc98810af83cc9758acde1f82eff82f"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/animated.png"
+hash = "dad9b43c4e7ad721c768c017749b0e6db7b045ad56331b33853063aa281f990b"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/face_happy.png"
+hash = "9f0f7ac29a38530993402c91365789c9df87847dd10b4a7c2ed9cc9e45cb251e"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/face_misc.png"
+hash = "5ff8790ba03fe251964b40877c4297ce3934198ad86076b64b611e473fcb9afe"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/face_sad.png"
+hash = "1316c3fb46e7706a2bc378004e175f2e834b5fb96f3890b805f6424f6701e76f"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/face_stress.png"
+hash = "b8bb4e75fa8756218334a519c6fa6e01d02022f4ac3e821aba2e000dcb3b84eb"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/festive.png"
+hash = "c0b4434022f2a15eceaa6e27a0eaebdd8c2a1aa309b60cb9c725899fde35869b"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/flag_a-d.png"
+hash = "3aa129382e7ee24bb517f0d8b6c5efb21d4a1e19d38b79cecfb76269c646abb4"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/flag_e-k.png"
+hash = "38818d23a7ebb797971a2cf729bf665ee494e0ecbbe0574f8642687c822a9029"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/flag_l-q.png"
+hash = "4df49dd253017a6868aab737f2f174bf38964e9319ce2f55f6de400174846165"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/flag_r-z.png"
+hash = "f35230d8f1d216be0c3962aac6d8e0b1257c78941a97202302077f3dc6a57b9d"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/food.png"
+hash = "4d69d612c3d9aa86ad4f18c50315b036344e0e9a90046a50ecbfe75fcfc9c50d"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/gesture.png"
+hash = "6ad26a270f7b048d948e79493206780f8a72a66d8f6a3f638cba0ab0b1fafc04"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/heart.png"
+hash = "c4610d117c13b80568d0a6efc50b550ea299b3a6a4de007997ff3fbe4911782c"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/letters.png"
+hash = "77b111fe481b4e90b6f6c70c30279f9225d3424a70f5c872539b8bc23d98a9c4"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/logo.png"
+hash = "e712ce963050cc277adc5a4f7b0b2756c8f74e9104574d6070323145d7a21055"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/meme.png"
+hash = "3a26eef1f730873f8db1d30ef09cc0bc1a44a82ae94ca46c207a62455e35f6c9"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/minecraft_animated.png"
+hash = "acca2ffef22b56b7b77562191730f0e48d1a11aa9f8221faa71dfebb59b51d15"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/minecraft_blocks.png"
+hash = "3ce60c4b3e5f528123f40276a664533341af755b42808dc6a42385b0e894a3b1"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/minecraft_items.png"
+hash = "eacec7b025d5129482d45896e9987bd4de8bf1244e076846be65eb05c2e6553f"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/minecraft_mobs.png"
+hash = "0063ce27e021e349a7f95625e5e6ad37cd2c0eb0279a495574389670e05d8628"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/misc.png"
+hash = "cdd02621170e156f4d98aaecba2f616ec4237951f7d7f76df42c9bb24206a61f"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/nature.png"
+hash = "d3fda412e2f1fd144d08d71d3b5b4fbaf8b568793a62d5d8a9345c9d27d12ed6"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/object.png"
+hash = "2fe8a52b6d0cbb5b600d3c0cbc4e150cd64a3199f4d8b87376b0d55a920ea242"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/portrait.png"
+hash = "de95a6d10debbb21e7b48fd407e7d4f02d5ac9c55bd1c1d4a1e29eb7b31b9a8d"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/pride.png"
+hash = "fc78e78da8701480bdf6e9e46132b987d51bdd820c3a2fd4a870dbbdac82c458"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/reference.png"
+hash = "9ab260ce86bb516c8b3afd81e3258aa2237a0021780e2cab9ef82a21343fc214"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/reference_bloons.png"
+hash = "027424096f7ea0db4cfbcda435dd176bb36ad99ba5b1591ca50d4e86da2fa1e3"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/reference_logo.png"
+hash = "9d492414ebe364c4d1e69bd99671b8dd4da68d7d7500b4e5bd6fd58e851dcbc0"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/reference_retro.png"
+hash = "2412dc025bd473c3cf6b9235437d470553aa2fcb47dc3d8e547463c5cf5a4386"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/symbol.png"
+hash = "bdd49e9fbde6032b664c460baff97ac62e48d63aec98a66b6befc687d9298311"
+
+[[files]]
+file = "figura/cache/resources/hashes.json"
+hash = "8ccc0b30fba3be6c068c254b1f148600b4261fea112960b6c840481e1159846d"
+
+[[files]]
+file = "logs/2026-07-17-1.log.gz"
+hash = "3fe82edbc1f0c4360bbfc0c3f86d4772ce2b901f099e48cc6ad00fb97c856df7"
+
+[[files]]
+file = "logs/2026-07-17-2.log.gz"
+hash = "b20fa6bb0f2af9bb853f23180d00597f522003adeac9b498fafa9dbfad3d0700"
+
+[[files]]
+file = "logs/2026-07-17-3.log.gz"
+hash = "460a00c71e91144fc97ee1e9f01f006584100b896bb2dec3bcef903281172ae3"
+
+[[files]]
+file = "logs/2026-07-17-4.log.gz"
+hash = "52a127c8b0479983e250201a35b7ede5e9292da4cc41d344f347447af63c4f19"
+
+[[files]]
+file = "logs/2026-07-17-5.log.gz"
+hash = "9a66dfee71eb4325c61eab573748e653e103612c58589c167b00344e86404527"
+
+[[files]]
+file = "logs/2026-07-17-6.log.gz"
+hash = "41e0318234b1d6fa6d1476fd463918fbed71f5b62d9c5d8d9034543e28e3632f"
+
+[[files]]
+file = "logs/2026-07-17-7.log.gz"
+hash = "8efcd3916cc820b93518fa37c3dfe73eada522c41922ac28550ed6e6a407742e"
+
+[[files]]
+file = "logs/debug-1.log.gz"
+hash = "ebc368615c6cab24213a26b81fdd2ab14870fae20515286862d9bb9a42ae78d3"
+
+[[files]]
+file = "logs/debug-2.log.gz"
+hash = "50d0ece35c7058f32ee9cbfa00ee1ce23cbe3b700566a1c8ecba004e380d1de3"
+
+[[files]]
+file = "logs/debug-3.log.gz"
+hash = "c44342c17b9782bfa74e36ea91ff61d66a8cf04dc59aee76d6f55406e80e0865"
+
+[[files]]
+file = "logs/debug-4.log.gz"
+hash = "b2a1b30fc003fb6971d05d83b8eaced5d1f505453920092891acbed707246e0c"
+
+[[files]]
+file = "logs/debug-5.log.gz"
+hash = "2dd91a76dc8fc8b8f20cb2f779f6eb08228ce533381fa7fa25c778e09f89ca34"
+
+[[files]]
+file = "logs/debug.log"
+hash = "7befee2314181243a927c050423ca1fde524067e987d6ddaa15d353ef0389ca7"
+
+[[files]]
+file = "logs/latest.log"
+hash = "d14174c9ec32f83587f9a726d5fc29832bd88287e41a6ba1bd1eb1859775943f"
+
+[[files]]
+file = "logs/launcher_log.txt"
+hash = "fd1245ba4fd601ac609b7322e5f3f104400260d50d16cf71395303cf7d215d1f"
+
+[[files]]
+file = "logs/telemetry/20260717-1.json.gz"
+hash = "ac73670af3abed54ac6fb4695131f4099be9fbe39d6076c5d0264a6bbdae9d83"
+
+[[files]]
+file = "mods/.connector/patch_audit.txt"
+hash = "894031c9414569a71d4b44ca525c654d5d07f848afad79c2a3a57cbb025421e4"
+
+[[files]]
+file = "mods/.connector/patched_citresewn-1.2.2+1.21$citresewn-defaults-1.2.2+1.21_mapped_moj_1.21.1.jar"
+hash = "8a07e4639a644b805da837970970167bc876de2f3fbccef13ff1cf78b35552df"
+
+[[files]]
+file = "mods/.connector/patched_citresewn-1.2.2+1.21$citresewn-defaults-1.2.2+1.21_mapped_moj_1.21.1.jar.input"
+hash = "7305b29521eceb735d42784b82986c3d808f0f5e6a381a2021d611b782d81f9e"
+
+[[files]]
+file = "mods/.connector/patched_citresewn-1.2.2+1.21_mapped_moj_1.21.1.jar"
+hash = "ce46b178f71b020ded7293c74248a3fb7481e35131a1e99e835cee120e871cba"
+
+[[files]]
+file = "mods/.connector/patched_citresewn-1.2.2+1.21_mapped_moj_1.21.1.jar.input"
+hash = "69889ca3ca33a45f310f1b26a10616a0ac7acd998995b889247e89e448f81e02"
+
+[[files]]
+file = "mods/.connector/temp/patched_citresewn-1.2.2+1.21$citresewn-defaults-1.2.2+1.21.jar"
+hash = "a38da6281b43e62908d225712abf53ed37b7a0249a1ca20dcf0be3ab82e95cb8"
+
+[[files]]
+file = "mods/.connector/temp/patched_citresewn-1.2.2+1.21$citresewn-defaults-1.2.2+1.21.jar.input"
+hash = "7305b29521eceb735d42784b82986c3d808f0f5e6a381a2021d611b782d81f9e"
+
+[[files]]
+file = "mods/BetterF3-11.0.3-NeoForge-1.21.1.jar"
+hash = "1a97b6ca5c81b3b18d653f403929908e3b48bb1bdb6e8bd8559f89cf0294dc26"
+
+[[files]]
+file = "mods/Chunky-NeoForge-1.4.23.jar"
+hash = "d72f235cf1f56f2c374f52c00bdda5034524b28142305a84cfc123a3f92ad274"
+
+[[files]]
+file = "mods/Clumps-neoforge-1.21.1-19.0.0.1.jar"
+hash = "b524ccdace2ef8fd19f5b2074f7de1103ac5065c52553f064c00e098346c293e"
+
+[[files]]
+file = "mods/Controlling-neoforge-1.21.1-19.0.5.jar"
+hash = "cc525fb6b030d9e4d33176983f278919e17b33935e2ca568929bdfa98f2b44a0"
+
+[[files]]
+file = "mods/CreateDragonsPlus-1.11.2b.jar"
+hash = "9b15e464465a639de9ef5a935ae9fd94ea545904517d1428bc784a4012e0a1e2"
+
+[[files]]
+file = "mods/ExtendedAE-1.21-2.2.29-neoforge.jar"
+hash = "358b6eed1f7b52a6123454851e85907de3730cf04b929a8fb5f70e43412fdfae"
+
+[[files]]
+file = "mods/FarmersDelight-1.21.1-1.3.2.jar"
+hash = "8ff438d62e1fce61542945faae45975d823e04bd6e73a07a121ea05ce2f03de7"
+
+[[files]]
+file = "mods/Glodium-1.21-2.2-neoforge.jar"
+hash = "369e99753df0bdc90a38a8c52df4abb37baf6b18c6ca130af4c7bc75fb160a85"
+
+[[files]]
+file = "mods/Jade-1.21.1-NeoForge-15.10.5.jar"
+hash = "067bb4b007e1d6f6b79f0afe99c91252aa825472b99a76d33a60d24442f9e92d"
+
+[[files]]
+file = "mods/JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar"
+hash = "7a47d69b5530704690d5a5f0726cd74a2d6c57df17dd4a8589c4ab5212f91460"
+
+[[files]]
+file = "mods/LeavesBeGone-v21.1.1-1.21.1-NeoForge.jar"
+hash = "ea85ad07672f7c2199c28fe58a80c354ef2f2c60bfb0315e3730c344068526e0"
+
+[[files]]
+file = "mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar"
+hash = "68e6f4201c5de97b77929a7215c9552495696ca6a3bf3ae4eacc34e135f6cc8b"
+
+[[files]]
+file = "mods/NaturesCompass-1.21.1-3.4.0-neoforge.jar"
+hash = "0e249ac11b2f916c5570d9679e188da652fa5664ba9cdb7be5dc9ff69497539c"
+
+[[files]]
+file = "mods/NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar"
+hash = "866ac9a47afcd829bdb03890b5d8f80bb4c6f47332c64717b6e909bee51337b6"
+
+[[files]]
+file = "mods/PuzzlesLib-v21.1.52-1.21.1-NeoForge.jar"
+hash = "00069866c4c6bb67ee5192d1b425d46e6a1601dc598e61bd10b67ba5fa8b029c"
+
+[[files]]
+file = "mods/Searchables-neoforge-1.21.1-1.0.2.jar"
+hash = "ca193f0c69033d8f709f9e073a7c1ef4ea46714e5c2f94eb23ace12781c6aa68"
+
+[[files]]
+file = "mods/SkyVillages-1.0.6-1.21.x-neoforge-release.jar"
+hash = "5ef7b63c6f1999a632085975afa14f00146369c142fd72980d760cbb617dd52f"
+
+[[files]]
+file = "mods/YungsApi-1.21.1-NeoForge-5.1.6.jar"
+hash = "08e1d21690d3213a4c62de6b6cf79f3527afb2e72e0cad0e1848d46eb8f682ca"
+
+[[files]]
+file = "mods/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar"
+hash = "2c3191ad447092cc7873a06e92f16bd3e2ff9dc31e93268b8893d06dd89e1fd6"
+
+[[files]]
+file = "mods/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar"
+hash = "61816c3b7c9d92c6b44f93dce87ceb0a22827f20285d5d9c4d10d519d734de04"
+
+[[files]]
+file = "mods/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar"
+hash = "a0d57b78c7a1891796f342b1f09c214bc27bedf0a3a894f029dfdb2db9f813d0"
+
+[[files]]
+file = "mods/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar"
+hash = "5625930dfb3240820d6e4ecf55fff0c39f70ce782fad117a4d418251184c7be0"
+
+[[files]]
+file = "mods/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar"
+hash = "5450a64a7036237f449496837e08f3e5b3aa1d7974a10df43944172def75d8ff"
+
+[[files]]
+file = "mods/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar"
+hash = "cdcf8fe0e08c75261048d43c6ed4898972d23e096dd04a2524c136f06416ab02"
+
+[[files]]
+file = "mods/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar"
+hash = "a9cab2fc01538368862365691f7d215309801aed0b390351681b6b60a1db7b58"
+
+[[files]]
+file = "mods/YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar"
+hash = "888b1e6d1ada21982a75abfb4afb040c9bc2cc68777ec5fcd1199b978e3d4f8d"
+
+[[files]]
+file = "mods/YungsBridges-1.21.1-NeoForge-5.1.1.jar"
+hash = "bf93a85422a6b457358c3b56352641a97ec09cc37dec18b2cedcac2bd1ff9bec"
+
+[[files]]
+file = "mods/YungsExtras-1.21.1-NeoForge-5.1.1.jar"
+hash = "0cd26474e514f5dc3114aaf5ec7e049bcd285f0c5db191bb45223193f35df70d"
+
+[[files]]
+file = "mods/ae2wtlib-19.5.0.jar"
+hash = "decf9a35c6d08c160a65a30fe623fd9c09ad5f5dd1790052917f19c82441bd16"
+
+[[files]]
+file = "mods/aeroworks-1.3.0.jar"
+hash = "f836748d2bbad5b60fffef559418b74688621bf8e77710e6e0d5437c56ed2c78"
+
+[[files]]
+file = "mods/appleskin-neoforge-mc1.21-3.0.9.jar"
+hash = "38b48dd6231341c9f964ce6e42c57ec866c6cc8f72bec938390a59bafb3922df"
+
+[[files]]
+file = "mods/appliedenergistics2-19.2.17.jar"
+hash = "460d779a0609b81409907d9956de8f6f70a1b0912257e3e5c3c7e75ac9630e95"
+
+[[files]]
+file = "mods/architectury-13.0.8-neoforge.jar"
+hash = "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee"
+
+[[files]]
+file = "mods/ars_creo-1.21.1-5.4.0.jar"
+hash = "50f0fe5c5f855151c1482c1772ea94c2eaadc2b0c85c963bb9aeb421fc801e4f"
+
+[[files]]
+file = "mods/ars_nouveau-1.21.1-5.12.1.jar"
+hash = "b24412acce7303baf5c46bf4130ba6add5c349047a6dfc445e1add0cd8528fa2"
+
+[[files]]
+file = "mods/arsdelight-2.2.2.jar"
+hash = "e8b547eccbbeefa98dc50b014e44c7c7ff30f479aad02ec8dab5716a473d0d46"
+
+[[files]]
+file = "mods/arseng-2.1.1-beta.jar"
+hash = "9e2b78101f08bf325589cb98ffba9d91171fdd76ba587d54bdef9d5de18080bc"
+
+[[files]]
+file = "mods/artifacts-neoforge-13.2.1.jar"
+hash = "4a8e1f4d5702937a707861e478829695e432286bcd9e58f5834d82c6d998eea8"
+
+[[files]]
+file = "mods/athena-neoforge-1.21.1-4.0.6.jar"
+hash = "43699885bbce3343916d4c5c4940cf0e3f9f6f02fdeb46e8655e121b42282ec5"
+
+[[files]]
+file = "mods/authme-neoforge-9.0.1+1.21.1.jar"
+hash = "2b2a902f11b9236990435131535ea489f4dff382f28b2dc374414caff31d9f54"
+
+[[files]]
+file = "mods/balm-neoforge-1.21.1-21.0.63.jar"
+hash = "b2fb37cbd47cdbd80300c2328e42c1440cfaa9ccc8635d2867b9373792f621f5"
+
+[[files]]
+file = "mods/bookshelf-neoforge-1.21.1-21.1.81.jar"
+hash = "19e88d40da2b6a114c2b808f7fb469d96e66a5379df0a8a43fcb7834498b3e76"
+
+[[files]]
+file = "mods/chipped-neoforge-1.21.1-4.0.2.jar"
+hash = "18ac6fd6b30db4922ccc6ee8bea5b113f69587505b7529834f37ace506427291"
+
+[[files]]
+file = "mods/citresewn-1.2.2+1.21.jar"
+hash = "27f960a57597539cb8dfdd7a926268a123177322b14bea113415a56825c01776"
+
+[[files]]
+file = "mods/citresewn_neopatcher-1.2.0-1.2.2.jar"
+hash = "711d1e489e71278261109c7ad682a8acf60c0adec6019b79350c254aba1fbe90"
+
+[[files]]
+file = "mods/cloth-config-15.0.140-neoforge.jar"
+hash = "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
+
+[[files]]
+file = "mods/connector-2.0.0-beta.15+1.21.1-full.jar"
+hash = "d5149893c62dc4434a8751f025d692579260b73ed9428ea4dea110015ffa0f04"
+
+[[files]]
+file = "mods/controlify-3.0.1+lts+1.21.1-neoforge.jar"
+hash = "0c8b8d6e57599b516a16f2df2a7314ee96228c94f145f5d7bea2e2ec7b2f90e7"
+
+[[files]]
+file = "mods/copycats-3.0.4+mc.1.21.1-neoforge.jar"
+hash = "8480e2a62eaa625f75776831c1d8a9ef3d77d2d816fa2e67566c6ec25ba745d1"
+
+[[files]]
+file = "mods/craftingtweaks-neoforge-1.21.1-21.1.10.jar"
+hash = "f1667357c0b8d12486ea27c9fa3a8c9b77df5555bb891517b836bab77a930b28"
+
+[[files]]
+file = "mods/create-1.21.1-6.0.10.jar"
+hash = "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a"
+
+[[files]]
+file = "mods/create-aeronautics-bundled-1.21.1-1.3.0.jar"
+hash = "482c90e0e6fe72f33fe7abb079e5fda581cd660ee53c38c44448a64283e1044c"
+
+[[files]]
+file = "mods/create-central-kitchen-2.5.0.jar"
+hash = "ef581fb9e62ffda6bf5e1c6854847f5e53fe7dd43adb4c1a318426481468afec"
+
+[[files]]
+file = "mods/create-enchantment-industry-2.5.0-preview-alpha1.jar"
+hash = "b25cc57696e6a26fef16437d88f3fe5a2690090e6f9728b6c72ca3e945cb07eb"
+
+[[files]]
+file = "mods/create-new-age-1.2.0+neoforge-mc1.21.1.jar"
+hash = "a217ea21ccc8364e99d86777e519436bc7c94516df9737ad0103047e48a44717"
+
+[[files]]
+file = "mods/create-shufflefilter-2.1.1-neo.jar"
+hash = "6e2b27c015936f61b3ba3271477b09032162239945491d09815518ebff7d76bf"
+
+[[files]]
+file = "mods/create_bic_bit-1.0.2C.jar"
+hash = "9e3846da4988b79e0c2284081f08e7b2afe9b8ba37e9b7187c54fd01ffd6e79b"
+
+[[files]]
+file = "mods/create_blahaj_factory-1.0.5-neoforge-1.21.1.jar"
+hash = "9b39577aac493bca00346e1802d4d1c14527653bfac91da43e2b99980e402f63"
+
+[[files]]
+file = "mods/create_connected-1.3.2-mc1.21.1.jar"
+hash = "90bdceac63cb0ebd5e51351e22136182b996512edef937d0635d2857b0a3f24b"
+
+[[files]]
+file = "mods/create_oxidized-0.1.3.jar"
+hash = "9221f4caa70036d05a04e83e6b57844fa03b60cdef6ade1491c37c0f7800d063"
+
+[[files]]
+file = "mods/create_pattern_schematics-2.0.10.jar"
+hash = "d6525b9ab9914a194ca5aa00e6605f5977d8ac28722cdccce018da44f62bc5c5"
+
+[[files]]
+file = "mods/create_tweaked_controllers-1.21.1-1.2.7.jar"
+hash = "eda56263fabfcf4064dbaa8950a7f469775d4457dc807ee84ba29169690fda34"
+
+[[files]]
+file = "mods/createcobblestone-1.4.11+neoforge-1.21.1-140.jar"
+hash = "18a9394c551db01a7b18293678c0bb143098c05e8ee81fa52bf9c809e5f7986c"
+
+[[files]]
+file = "mods/createliquidfuel-2.1.1-1.21.1.jar"
+hash = "ccd44b069962890352dfee442508880a37eecd3c5625d74d668dd6eb7d39ee3d"
+
+[[files]]
+file = "mods/createthreadedtrains-neoforge-1.21.1-1.0.0.jar"
+hash = "cac002b0fb77ec1dd48cf76a07dd5f2341b632788e1add768cf5c555823e4b38"
+
+[[files]]
+file = "mods/createultimine-1.21.1-neoforge-1.3.2.jar"
+hash = "96feb5f37da16dd41e2f547576da72941c664aa5bae3a6618621404c783522fb"
+
+[[files]]
+file = "mods/crittersandcompanions-neoforge-2.6.0.jar"
+hash = "245e52b63a55ebf3348d0aae7b0cc0be8002e445d036a81a2e1bac816cc2a2aa"
+
+[[files]]
+file = "mods/curios-neoforge-9.5.1+1.21.1.jar"
+hash = "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde"
+
+[[files]]
+file = "mods/do_a_barrel_roll-neoforge-3.7.3+1.21.jar"
+hash = "e56395ebb26318c11f3a9474bba14518f17f4f2028683eb0aa9cdc7dacf124e2"
+
+[[files]]
+file = "mods/enchdesc-neoforge-1.21.1-21.1.10.jar"
+hash = "9424c9aff4edf4d8730c931df4253138aeaee745ec839af7078d292bb4eeaa16"
+
+[[files]]
+file = "mods/entity_model_features-3.2.4-1.21-neoforge.jar"
+hash = "84c22f2be06ee6bfab265a443e075225878bba9f408843030dc6de3152e9dedb"
+
+[[files]]
+file = "mods/entity_texture_features_1.21-neoforge-7.1.jar"
+hash = "b2e396543c678b8378a2d5557a0cd3d24790364bff7e96edaf17921112d6176b"
+
+[[files]]
+file = "mods/entityculling-neoforge-1.10.5-mc1.21.1.jar"
+hash = "2eacd2bada39bf1d1ef695736646790c619c0e6cdeaf3d7e3cfc9139d26fae02"
+
+[[files]]
+file = "mods/escalated-1.3.1-mc.1.21.1.jar"
+hash = "cf2de1ac5439e72a7020ba7ad42ea5b0e225b0fbaaa4ca941913e74c77ea582b"
+
+[[files]]
+file = "mods/ferritecore-7.0.3-neoforge.jar"
+hash = "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8"
+
+[[files]]
+file = "mods/figura-0.1.6+1.21.1-neoforge-mc.jar"
+hash = "f379147b52953e8013c27ee5b9d1552618b649f80a0cbe974ed0c6e8de89515c"
+
+[[files]]
+file = "mods/forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar"
+hash = "68abf2864e957df26ac0cc3bd5352ee67880e052b47a80f22f28556c1179f18d"
+
+[[files]]
+file = "mods/ftb-chunks-neoforge-2101.1.20.jar"
+hash = "3bcd6f0032cec7310dc90b02b5a00e4cf1dd7a507f758bb353de864cb5e9241e"
+
+[[files]]
+file = "mods/ftb-library-neoforge-2101.1.33.jar"
+hash = "6e8f7b57f243caf5cbb2c80387924df7b555b98d0fc6e1e575d4b5d74f5ff2e2"
+
+[[files]]
+file = "mods/ftb-quests-neoforge-2101.1.27.jar"
+hash = "460b163ebefb4580e1ad32e1f94f1ea4bdc8f763692ee821628ace10bde49a03"
+
+[[files]]
+file = "mods/ftb-ranks-neoforge-2101.1.3.jar"
+hash = "3373e446bfb056a0b3ae661afd04f658e5e95a57dc7dd9afdbdeaedfb1571c34"
+
+[[files]]
+file = "mods/ftb-teams-neoforge-2101.1.10.jar"
+hash = "a656f2aa0e11a933aab3ba697690aa0eb2041f65e6c5daa448897ee0a6d37a6c"
+
+[[files]]
+file = "mods/ftb-ultimine-neoforge-2101.1.15.jar"
+hash = "1393a85ceb6e4794450d5f06043e3a033278e31b86de8e03950d8b87604b2213"
+
+[[files]]
+file = "mods/garnished-april-foods-26-neoforged.jar"
+hash = "8cfacd3d66a3ef476dffc4d3a3e58ab846df2120c9d9cbaa7a543af43087aa15"
+
+[[files]]
+file = "mods/geckolib-neoforge-1.21.1-4.9.2.jar"
+hash = "5e548466af9ab6aca7a91a7c7d4dc0dc8bc385e22958aed5da0e7bebd0fa3fba"
+
+[[files]]
+file = "mods/guideme-21.1.17.jar"
+hash = "d012aca7275e2186aa223bf180b643164e5360d6433385fb12951f369f0b8c84"
+
+[[files]]
+file = "mods/handcrafted-neoforge-1.21.1-4.0.3.jar"
+hash = "6f2a776fb28ed07d370899814e5e711fbeebe31396097d78a3b550439b364948"
+
+[[files]]
+file = "mods/iceandfire-2.0-beta.17.jar"
+hash = "ee52349445615417e69ab64cf15dbb96b9332a9117225119d281695c5f8d90f0"
+
+[[files]]
+file = "mods/interiors-1.21.1-neoforge-0.6.1.jar"
+hash = "0d1326fb8b67623ae1c69a63b788dcdcecaf8df400c7d8e5e55ace79a5166fe5"
+
+[[files]]
+file = "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar"
+hash = "60d5f8bf52f25e9986440f4a4270a6bd986d9cff994510e1108ac1547063b314"
+
+[[files]]
+file = "mods/jei-1.21.1-neoforge-19.38.0.366.jar"
+hash = "bdd030215036fa4d15fb26e8ed9c12a2ed613ab527fc83f640ba3969ab10202a"
+
+[[files]]
+file = "mods/jupiter-2.3.7-1.21.1-neoforge.jar"
+hash = "95af332af250f97fe2d9d288fe6b2057c266673a388348bf33756b0b693ace15"
+
+[[files]]
+file = "mods/just_blahaj-3.1.1-neoforge-1.21.1.jar"
+hash = "1e054f5d12977d8b2e831d42005b0ddd3b1be9bff40298f2bf88fd92ec7fa03b"
+
+[[files]]
+file = "mods/kotlinforforge-5.12.0-all.jar"
+hash = "2785a4dd6de5c6c56065fd8eb789c82771bd2ee773c30794c23160a3b2c39139"
+
+[[files]]
+file = "mods/lambdynamiclights-4.8.10+1.21.1.jar"
+hash = "94e955443ce3817f798c74cbbbb4973e7b55c8b6dec12808b9378e74376b2eb9"
+
+[[files]]
+file = "mods/lithium-neoforge-0.15.4+mc1.21.1.jar"
+hash = "488f33216030c1cb0baa33e59de3d657d08d5795a6c2080c8c8bbbc133fc8757"
+
+[[files]]
+file = "mods/lootr-neoforge-1.21.1-1.11.37.122.jar"
+hash = "fd330d69bb0740d2833ad91784ee5f8b0e4c5d8dbee379e60e93ca2d1c252fce"
+
+[[files]]
+file = "mods/picturesign-neoforge-2.0.1.jar"
+hash = "28fe1d39fce385d00bba5ccd5f80e0d1bb7498d9280dcdd6bf66c0b02c04b923"
+
+[[files]]
+file = "mods/polymorph-neoforge-1.1.0+1.21.1.jar"
+hash = "bec8118978adeb052de9c4eaf9a595830621d82515a764f32f9c8a4dd52ab94b"
+
+[[files]]
+file = "mods/prickle-neoforge-1.21.1-21.1.11.jar"
+hash = "ccf46c442ed3c7fe41ad056f0940560829ec4dd88360985dfacd78f4614eb167"
+
+[[files]]
+file = "mods/reeses-sodium-options-neoforge-2.2.3+mc1.21.1.jar"
+hash = "25812f308a87c04686de6ac9f24a8073101f81864f0eb9abf348f95d73a6629e"
+
+[[files]]
+file = "mods/resourcefullib-neoforge-1.21-3.0.12.jar"
+hash = "5e36f2c69de008dc5795f730c84ab767688f15c810944b585485349a0c911261"
+
+[[files]]
+file = "mods/sable-neoforge-1.21.1-2.0.3.jar"
+hash = "da6c3b66238586603d1dcaa2afb012d36815fbce0a2d5938fbb2936701d42279"
+
+[[files]]
+file = "mods/sliceanddice-neoforge-4.3.2.jar"
+hash = "334afd3a0d543674823032eb710189d29b6ffb74bc35e27c569c75e6c7ca07e0"
+
+[[files]]
+file = "mods/sodium-neoforge-0.8.12+mc1.21.1.jar"
+hash = "2f9e69ec9521e657100ef83b3bdf3f18dba6078d57f9853722d7643a577b2266"
+
+[[files]]
+file = "mods/sophisticatedbackpacks-1.21.1-3.25.69.1979.jar"
+hash = "97290db9a053737664cb937c4a40d4bf59a5525881d6fe3ca983d2c6648b05b2"
+
+[[files]]
+file = "mods/sophisticatedbackpackscreateintegration-1.21.1-0.1.8.134.jar"
+hash = "9f9d70b91a5c7b1236f816149f28157869f6ae8e62f606703d9efee868d9ae25"
+
+[[files]]
+file = "mods/sophisticatedcore-1.21.1-1.4.75.2161.jar"
+hash = "4bdfa84b1b0e2561c4bffdc46fb608f0cbb9f126e4992cedbf3f7b434a7786f6"
+
+[[files]]
+file = "mods/sophisticatedstorage-1.21.1-1.5.77.1982.jar"
+hash = "21e9487fbba2d34b74f2485b01b0e49bc40029cbddaa0868973af5058db503cc"
+
+[[files]]
+file = "mods/sophisticatedstoragecreateintegration-1.21.1-0.1.20.192.jar"
+hash = "c7e8daec5b835ec1216da92e2098c471e1b08d0236201580b535d21c9f348718"
+
+[[files]]
+file = "mods/uranus-2.4.1-1.21.1-neoforge.jar"
+hash = "2156a9b353bccfb1f0bf703561a74146ea8803323c48e9b8aef5fab8d58e1d1e"
+
+[[files]]
+file = "mods/voicechat-neoforge-1.21.1-2.6.20.jar"
+hash = "1e387494cec156553557d0996cee6dbf6ca606e371782f723ff08d3e9905fe3c"
+
+[[files]]
+file = "mods/watermedia-2.0.75.jar"
+hash = "a7f07c8d33036521c98e535bad0c17bcc886e7267331bdf1e3b25e3d24244437"
+
+[[files]]
+file = "mods/watermedia_binaries-3.0.0-rc.4.jar"
+hash = "afa3abac51e6ec50ee129ba667b16aece076ff2cb61c92bc1bef267c4a191a9e"
+
+[[files]]
+file = "mods/xaerominimap-neoforge-1.21.1-26.3.0.jar"
+hash = "3ee7a14bf90976eb6eb86adeeb8318dd4e6c2a30c2b04bdf7a6198e5830c5850"
+
+[[files]]
+file = "mods/xaeroworldmap-neoforge-1.21.1-1.43.0.jar"
+hash = "b1ce7b0e47ab3a01976625c9a635acc5fc5e4d5252015b30b7985b2844e0e12c"
+
+[[files]]
+file = "mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar"
+hash = "b5c30321b46cfaa521645a04aff89d2804d8167a25bb23ad4b1ae8da73093a2f"
+
+[[files]]
+file = "mods/zume-1.2.2.jar"
+hash = "c33b99e8976dfeb0aeb1afcc2ad8e65c7310532ae5ccc38c75317d672dc95e6f"
+
+[[files]]
+file = "options.txt"
+hash = "7580bb220f79cb7f0d51e432ee7b9265f9d98a7b0e20e1d160d3e92f4e8e740b"
