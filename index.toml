@@ -329,6 +329,10 @@ file = "mods/ftb-chunks-neoforge-2101.1.20.jar"
 hash = "3bcd6f0032cec7310dc90b02b5a00e4cf1dd7a507f758bb353de864cb5e9241e"
 
 [[files]]
+file = "mods/ftb-essentials-neoforge-2101.1.10.jar"
+hash = "a61de1b883ec9d6d652276f453e8e60b18bd315fef8c62f21d6545260d526587"
+
+[[files]]
 file = "mods/ftb-library-neoforge-2101.1.33.jar"
 hash = "6e8f7b57f243caf5cbb2c80387924df7b555b98d0fc6e1e575d4b5d74f5ff2e2"
 
