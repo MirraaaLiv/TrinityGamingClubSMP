@@ -1,12 +1,12 @@
-name = "TGCSMP"
+name = "TrinitySMP"
 author = "Mirraaa"
-version = "1.0.5"
+version = "1.0.6"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "04b2d647b0cc130ede023c1385a58dd3f21f65aaef78cf9d90c4d89fcc0f7ff1"
+hash = "fafa88060eeeabc389ba7dfb162099f12a211a278fb928c586fe324dba3b53c1"
 
 [versions]
 minecraft = "1.21.1"

@@ -13,6 +13,10 @@ file = "mods/Clumps-neoforge-1.21.1-19.0.0.1.jar"
 hash = "b524ccdace2ef8fd19f5b2074f7de1103ac5065c52553f064c00e098346c293e"
 
 [[files]]
+file = "mods/Controlling-neoforge-1.21.1-19.0.5.jar"
+hash = "cc525fb6b030d9e4d33176983f278919e17b33935e2ca568929bdfa98f2b44a0"
+
+[[files]]
 file = "mods/CreateDragonsPlus-1.11.2b.jar"
 hash = "9b15e464465a639de9ef5a935ae9fd94ea545904517d1428bc784a4012e0a1e2"
 
@@ -177,8 +181,24 @@ file = "mods/chipped-neoforge-1.21.1-4.0.2.jar"
 hash = "18ac6fd6b30db4922ccc6ee8bea5b113f69587505b7529834f37ace506427291"
 
 [[files]]
+file = "mods/citresewn-1.2.2+1.21.jar"
+hash = "27f960a57597539cb8dfdd7a926268a123177322b14bea113415a56825c01776"
+
+[[files]]
+file = "mods/citresewn_neopatcher-1.2.0-1.2.2.jar"
+hash = "711d1e489e71278261109c7ad682a8acf60c0adec6019b79350c254aba1fbe90"
+
+[[files]]
 file = "mods/cloth-config-15.0.140-neoforge.jar"
 hash = "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
+
+[[files]]
+file = "mods/connector-2.0.0-beta.15+1.21.1-full.jar"
+hash = "d5149893c62dc4434a8751f025d692579260b73ed9428ea4dea110015ffa0f04"
+
+[[files]]
+file = "mods/controlify-3.0.1+lts+1.21.1-neoforge.jar"
+hash = "0c8b8d6e57599b516a16f2df2a7314ee96228c94f145f5d7bea2e2ec7b2f90e7"
 
 [[files]]
 file = "mods/copycats-3.0.4+mc.1.21.1-neoforge.jar"
@@ -269,6 +289,14 @@ file = "mods/enchdesc-neoforge-1.21.1-21.1.10.jar"
 hash = "9424c9aff4edf4d8730c931df4253138aeaee745ec839af7078d292bb4eeaa16"
 
 [[files]]
+file = "mods/entity_model_features-3.2.4-1.21-neoforge.jar"
+hash = "84c22f2be06ee6bfab265a443e075225878bba9f408843030dc6de3152e9dedb"
+
+[[files]]
+file = "mods/entity_texture_features_1.21-neoforge-7.1.jar"
+hash = "b2e396543c678b8378a2d5557a0cd3d24790364bff7e96edaf17921112d6176b"
+
+[[files]]
 file = "mods/entityculling-neoforge-1.10.5-mc1.21.1.jar"
 hash = "2eacd2bada39bf1d1ef695736646790c619c0e6cdeaf3d7e3cfc9139d26fae02"
 
@@ -279,6 +307,10 @@ hash = "cf2de1ac5439e72a7020ba7ad42ea5b0e225b0fbaaa4ca941913e74c77ea582b"
 [[files]]
 file = "mods/ferritecore-7.0.3-neoforge.jar"
 hash = "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8"
+
+[[files]]
+file = "mods/figura-0.1.6+1.21.1-neoforge-mc.jar"
+hash = "f379147b52953e8013c27ee5b9d1552618b649f80a0cbe974ed0c6e8de89515c"
 
 [[files]]
 file = "mods/forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar"
@@ -333,6 +365,10 @@ file = "mods/interiors-1.21.1-neoforge-0.6.1.jar"
 hash = "0d1326fb8b67623ae1c69a63b788dcdcecaf8df400c7d8e5e55ace79a5166fe5"
 
 [[files]]
+file = "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar"
+hash = "60d5f8bf52f25e9986440f4a4270a6bd986d9cff994510e1108ac1547063b314"
+
+[[files]]
 file = "mods/jei-1.21.1-neoforge-19.38.0.366.jar"
 hash = "bdd030215036fa4d15fb26e8ed9c12a2ed613ab527fc83f640ba3969ab10202a"
 
@@ -347,6 +383,10 @@ hash = "1e054f5d12977d8b2e831d42005b0ddd3b1be9bff40298f2bf88fd92ec7fa03b"
 [[files]]
 file = "mods/kotlinforforge-5.12.0-all.jar"
 hash = "2785a4dd6de5c6c56065fd8eb789c82771bd2ee773c30794c23160a3b2c39139"
+
+[[files]]
+file = "mods/lambdynamiclights-4.8.10+1.21.1.jar"
+hash = "94e955443ce3817f798c74cbbbb4973e7b55c8b6dec12808b9378e74376b2eb9"
 
 [[files]]
 file = "mods/lithium-neoforge-0.15.4+mc1.21.1.jar"
@@ -379,6 +419,10 @@ hash = "da6c3b66238586603d1dcaa2afb012d36815fbce0a2d5938fbb2936701d42279"
 [[files]]
 file = "mods/sliceanddice-neoforge-4.3.2.jar"
 hash = "334afd3a0d543674823032eb710189d29b6ffb74bc35e27c569c75e6c7ca07e0"
+
+[[files]]
+file = "mods/sodium-neoforge-0.8.12+mc1.21.1.jar"
+hash = "2f9e69ec9521e657100ef83b3bdf3f18dba6078d57f9853722d7643a577b2266"
 
 [[files]]
 file = "mods/sophisticatedbackpacks-1.21.1-3.25.71.1997.jar"
