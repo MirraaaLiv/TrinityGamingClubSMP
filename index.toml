@@ -475,3 +475,7 @@ hash = "b5c30321b46cfaa521645a04aff89d2804d8167a25bb23ad4b1ae8da73093a2f"
 [[files]]
 file = "mods/zume-1.2.2.jar"
 hash = "c33b99e8976dfeb0aeb1afcc2ad8e65c7310532ae5ccc38c75317d672dc95e6f"
+
+[[files]]
+file = "options.txt"
+hash = "cf7b86d8ccab0c08533a11d6fe96ebe7ea2017d73b2e8f0addae3523d052a9a8"
