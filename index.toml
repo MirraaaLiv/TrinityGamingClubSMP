@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/iceandfire/iaf-client.json"
+hash = "139c77cbd5c106862de2543f2809de827b8293a0648ec0e786887285ee63ae27"
+
+[[files]]
+file = "config/iceandfire/iaf-common.json"
+hash = "af0e0dc108027b5c52c0e17c2d8e4dea6309fc3759ff9047594a5a81dc82ef0f"
+
+[[files]]
 file = "mods/BetterF3-11.0.3-NeoForge-1.21.1.jar"
 hash = "1a97b6ca5c81b3b18d653f403929908e3b48bb1bdb6e8bd8559f89cf0294dc26"
 
