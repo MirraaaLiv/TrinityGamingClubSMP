@@ -429,6 +429,10 @@ file = "mods/resourcefullib-neoforge-1.21-3.0.12.jar"
 hash = "5e36f2c69de008dc5795f730c84ab767688f15c810944b585485349a0c911261"
 
 [[files]]
+file = "mods/rhino-2101.2.7-build.85.jar"
+hash = "e0e9b0e78edd380440266c0f4ea8d489dac851ef075a4566a66a6dae2f7bbb66"
+
+[[files]]
 file = "mods/sable-neoforge-1.21.1-2.0.3.jar"
 hash = "da6c3b66238586603d1dcaa2afb012d36815fbce0a2d5938fbb2936701d42279"
 
