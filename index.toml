@@ -9,6 +9,10 @@ file = "config/iceandfire/iaf-common.json"
 hash = "af0e0dc108027b5c52c0e17c2d8e4dea6309fc3759ff9047594a5a81dc82ef0f"
 
 [[files]]
+file = "mods/Apotheosis-1.21.1-8.6.0.jar"
+hash = "b9a1b1b34d99a9af4ff507f49d2da81cfafcd40afddad12d137d8da4b5e62a1e"
+
+[[files]]
 file = "mods/BetterF3-11.0.3-NeoForge-1.21.1.jar"
 hash = "1a97b6ca5c81b3b18d653f403929908e3b48bb1bdb6e8bd8559f89cf0294dc26"
 
@@ -431,6 +435,10 @@ hash = "5e36f2c69de008dc5795f730c84ab767688f15c810944b585485349a0c911261"
 [[files]]
 file = "mods/rhino-2101.2.7-build.85.jar"
 hash = "e0e9b0e78edd380440266c0f4ea8d489dac851ef075a4566a66a6dae2f7bbb66"
+
+[[files]]
+file = "mods/rpc-1.2.5+1.20.5-1.21.4-neoforge.jar"
+hash = "20e989ec0830a34419bafaab80f2548e128bc5ac0ecc6962e442a995c1222c34"
 
 [[files]]
 file = "mods/sable-neoforge-1.21.1-2.0.3.jar"
