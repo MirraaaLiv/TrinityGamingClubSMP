@@ -73,6 +73,10 @@ file = "mods/LeavesBeGone-v21.1.1-1.21.1-NeoForge.jar"
 hash = "ea85ad07672f7c2199c28fe58a80c354ef2f2c60bfb0315e3730c344068526e0"
 
 [[files]]
+file = "mods/MoogsEndStructures-1.21-2.0.3.jar"
+hash = "6dd403739a473c38aa2a6660dc4891be1525743f5e7be0cf4c25b93b4491b4ea"
+
+[[files]]
 file = "mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar"
 hash = "68e6f4201c5de97b77929a7215c9552495696ca6a3bf3ae4eacc34e135f6cc8b"
 
@@ -315,6 +319,10 @@ hash = "e56395ebb26318c11f3a9474bba14518f17f4f2028683eb0aa9cdc7dacf124e2"
 [[files]]
 file = "mods/enchdesc-neoforge-1.21.1-21.1.10.jar"
 hash = "9424c9aff4edf4d8730c931df4253138aeaee745ec839af7078d292bb4eeaa16"
+
+[[files]]
+file = "mods/endrem-neoforge-1.21.X-6.0.2.jar"
+hash = "f15cb30b32263410641c54ae6602a8bb8f00bc3cb57961c6b9941529cab0798d"
 
 [[files]]
 file = "mods/entity_model_features-3.2.4-1.21-neoforge.jar"
