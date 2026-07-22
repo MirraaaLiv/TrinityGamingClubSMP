@@ -13,6 +13,18 @@ file = "mods/Apotheosis-1.21.1-8.6.0.jar"
 hash = "b9a1b1b34d99a9af4ff507f49d2da81cfafcd40afddad12d137d8da4b5e62a1e"
 
 [[files]]
+file = "mods/ApothicAttributes-1.21.1-2.10.0.jar"
+hash = "70a37cd4e1fa370e09fa645fca80339fa27c2c5b961e763ee2eaade3cb9d8426"
+
+[[files]]
+file = "mods/ApothicEnchanting-1.21.1-1.6.0.jar"
+hash = "1003b0358282cd8bbb509273821371b92aa3671910de8eccb2fbe8064efb7180"
+
+[[files]]
+file = "mods/ApothicSpawners-1.21.1-1.4.0.jar"
+hash = "f0cbc52ad606997789c36fac94ae651ab7e2e21c841e26a952c64041cad9cdbe"
+
+[[files]]
 file = "mods/BetterF3-11.0.3-NeoForge-1.21.1.jar"
 hash = "1a97b6ca5c81b3b18d653f403929908e3b48bb1bdb6e8bd8559f89cf0294dc26"
 
@@ -71,6 +83,10 @@ hash = "0e249ac11b2f916c5570d9679e188da652fa5664ba9cdb7be5dc9ff69497539c"
 [[files]]
 file = "mods/NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar"
 hash = "866ac9a47afcd829bdb03890b5d8f80bb4c6f47332c64717b6e909bee51337b6"
+
+[[files]]
+file = "mods/Placebo-1.21.1-9.9.2.jar"
+hash = "1a844a5b081813b1edb82656329e54d38389ed470f6a6516a5887f5303d7daad"
 
 [[files]]
 file = "mods/PuzzlesLib-v21.1.52-1.21.1-NeoForge.jar"
