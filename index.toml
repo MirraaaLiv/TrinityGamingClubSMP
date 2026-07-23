@@ -41,6 +41,10 @@ file = "mods/Controlling-neoforge-1.21.1-19.0.5.jar"
 hash = "cc525fb6b030d9e4d33176983f278919e17b33935e2ca568929bdfa98f2b44a0"
 
 [[files]]
+file = "mods/Create Encased-1.21.1-1.9.0-ht1.jar"
+hash = "2d9ba3d55e21008c7da4b5a73642340952037045d8658854ac41dfd607c2b57c"
+
+[[files]]
 file = "mods/CreateDragonsPlus-1.11.2b.jar"
 hash = "9b15e464465a639de9ef5a935ae9fd94ea545904517d1428bc784a4012e0a1e2"
 
