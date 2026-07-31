@@ -457,8 +457,8 @@ file = "mods/prickle-neoforge-1.21.1-21.1.11.jar"
 hash = "ccf46c442ed3c7fe41ad056f0940560829ec4dd88360985dfacd78f4614eb167"
 
 [[files]]
-file = "mods/pvptoggle-1.4.0+1.21.1.jar"
-hash = "8819be3a803f99b2278029d750952303fa7e7c745e0a0fd8cb209c0d464e8c15"
+file = "mods/pvptoggle-1.0.jar"
+hash = "d819ff7f897859836083032ea7a0f2875eb497085a81766565234e67ff8a4bba"
 
 [[files]]
 file = "mods/reeses-sodium-options-neoforge-2.2.3+mc1.21.1.jar"
