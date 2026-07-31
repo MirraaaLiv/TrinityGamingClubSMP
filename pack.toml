@@ -1,12 +1,12 @@
 name = "TrinitySMP"
 author = "Mirraaa"
-version = "1.0.16"
+version = "1.0.17"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "be8eeada32a06f6baca23faa0a168bc5e18b257bb35c69c8e7489ef2d4fa1d8d"
+hash = "d7afb7fe373404c3cc5c2450ff58ab15602258fba8af1285a582a74ca5661e48"
 
 [versions]
 minecraft = "1.21.1"
