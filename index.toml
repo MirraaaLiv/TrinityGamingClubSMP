@@ -93,6 +93,10 @@ file = "mods/NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar"
 hash = "866ac9a47afcd829bdb03890b5d8f80bb4c6f47332c64717b6e909bee51337b6"
 
 [[files]]
+file = "mods/Patchouli-1.21.1-93-NEOFORGE.jar"
+hash = "959af52ed6640c316c3a8469203420be4aeea11ad6603890ba83bf48f5d9f993"
+
+[[files]]
 file = "mods/Placebo-1.21.1-9.9.2.jar"
 hash = "1a844a5b081813b1edb82656329e54d38389ed470f6a6516a5887f5303d7daad"
 
