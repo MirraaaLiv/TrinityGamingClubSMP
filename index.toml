@@ -513,6 +513,10 @@ file = "mods/sophisticatedstoragecreateintegration-1.21.1-0.1.20.192.jar"
 hash = "c7e8daec5b835ec1216da92e2098c471e1b08d0236201580b535d21c9f348718"
 
 [[files]]
+file = "mods/trade-cycling-neoforge-1.21.1-1.0.18.jar"
+hash = "dc1dc7ddcff62689e6d02212dbae33e54ecd906242bd8c2700be25e63aa93bba"
+
+[[files]]
 file = "mods/uranus-2.4.1-1.21.1-neoforge.jar"
 hash = "2156a9b353bccfb1f0bf703561a74146ea8803323c48e9b8aef5fab8d58e1d1e"
 
