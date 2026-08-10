@@ -441,6 +441,10 @@ file = "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar"
 hash = "60d5f8bf52f25e9986440f4a4270a6bd986d9cff994510e1108ac1547063b314"
 
 [[files]]
+file = "mods/jei-1.21.1-neoforge-19.44.0.399.jar"
+hash = "40cbc58728b4b25d92fa28c94e1837119d960c528741fe5d24ba7fc261dfb0e9"
+
+[[files]]
 file = "mods/jupiter-2.3.7-1.21.1-neoforge.jar"
 hash = "95af332af250f97fe2d9d288fe6b2057c266673a388348bf33756b0b693ace15"
 
