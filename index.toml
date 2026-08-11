@@ -413,6 +413,10 @@ file = "mods/ftb-ultimine-neoforge-2101.1.15.jar"
 hash = "1393a85ceb6e4794450d5f06043e3a033278e31b86de8e03950d8b87604b2213"
 
 [[files]]
+file = "mods/fzzy_config-0.7.6+1.21+neoforge.jar"
+hash = "4e5cc1438087b0bc0276969e88b9ad0bdf2bcc60d6caf5fe79e18947d7a29050"
+
+[[files]]
 file = "mods/garnished-april-foods-26-neoforged.jar"
 hash = "8cfacd3d66a3ef476dffc4d3a3e58ab846df2120c9d9cbaa7a543af43087aa15"
 
