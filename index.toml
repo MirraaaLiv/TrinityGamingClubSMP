@@ -325,6 +325,10 @@ file = "mods/curios-neoforge-9.5.1+1.21.1.jar"
 hash = "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde"
 
 [[files]]
+file = "mods/cynosure-1.0.3-neoforge-1.21.1.jar"
+hash = "d0d4bc6fc301c55485b2b91dff5a33b2ab5df1531c536cb0d4e6a52abcb855c6"
+
+[[files]]
 file = "mods/do_a_barrel_roll-neoforge-3.7.3+1.21.jar"
 hash = "e56395ebb26318c11f3a9474bba14518f17f4f2028683eb0aa9cdc7dacf124e2"
 
