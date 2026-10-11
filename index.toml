@@ -301,6 +301,10 @@ file = "mods/createcobblestone-1.4.11+neoforge-1.21.1-140.jar"
 hash = "18a9394c551db01a7b18293678c0bb143098c05e8ee81fa52bf9c809e5f7986c"
 
 [[files]]
+file = "mods/createestrogen-2.0.0+1.21.1.jar"
+hash = "fc46ad25bd0d9c61f799aac6d94c9f5e4ce3960e8de96a48664e9f70534489ac"
+
+[[files]]
 file = "mods/createliquidfuel-2.1.1-1.21.1.jar"
 hash = "ccd44b069962890352dfee442508880a37eecd3c5625d74d668dd6eb7d39ee3d"
 
@@ -367,6 +371,10 @@ hash = "2eacd2bada39bf1d1ef695736646790c619c0e6cdeaf3d7e3cfc9139d26fae02"
 [[files]]
 file = "mods/escalated-1.3.1-mc.1.21.1.jar"
 hash = "cf2de1ac5439e72a7020ba7ad42ea5b0e225b0fbaaa4ca941913e74c77ea582b"
+
+[[files]]
+file = "mods/estrogen-6.0.10+1.21.1-neoforge.jar"
+hash = "040c823e001c5a3bebf0d34be0e6305ce2c92b8879c6088b030387d0626d4307"
 
 [[files]]
 file = "mods/extra-mod-integrations-all-neoforge-1.0.3+1.21.1.jar"
